@@ -36,20 +36,6 @@
 
 ---
 
-### 📌 Recent Projects
-
-- 🔧 [Project Name](https://github.com/Angelo7672/project-name): Short description of what it does
-- 📷 [Another Project](https://github.com/Angelo7672/another-project): A cool thing about this one
-
----
-
-### 📬 Get in Touch
-
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Angelo7672&label=Profile%20views&color=0e75b6&style=flat" alt="Angelo7672" />
 </p>
