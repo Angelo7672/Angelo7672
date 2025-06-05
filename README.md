@@ -69,16 +69,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊🐍 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angelo7672&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo7672&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-### 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Angelo7672/Angelo7672/output/github-snake.svg" alt="snake animation" />
