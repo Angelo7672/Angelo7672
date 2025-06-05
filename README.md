@@ -5,7 +5,8 @@
 
 ### 🧠 About Me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
+<picture> <img align="right" src="https://github.com/Angelo7672/Angelo7672/blob/main/gif/Right_Side.gif?raw=true" width = 200px></picture>
+
 
 - 🎓 I'm currently pursuing a **Master’s Degree in Computer Science and Engineering**
 - 💻 Passionate about **Artificial Intelligence**, **Computer Vision**, and **Software Development**
@@ -29,7 +30,7 @@
   </tr>
 </table>
 
-<picture> <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 300px>  </picture>
+<picture> <img align="left" src = "https://github.com/Angelo7672/Angelo7672/blob/main/gif/Software_Tools.gif?raw=true" width = 300px>  </picture>
 
 <table align="center">
   <tr>
@@ -73,7 +74,7 @@
 
 ### 📊🐍 GitHub Stats
 
-<picture> <img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 200px>  </picture>
+<picture> <img align="right" src = "https://github.com/Angelo7672/Angelo7672/blob/main/gif/CP_PS.gif?raw=true" width = 200px>  </picture>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo7672&layout=compact&theme=tokyonight" />
