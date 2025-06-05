@@ -1,12 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Angelo</h1>
 <h3 align="center">MSc Student in Computer Science and Engineering</h3>
 
-<p align="center">
-  <a href="https://github.com/Angelo7672" target="_blank">GitHub</a> •
-  <a href="mailto:your.email@example.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a>
-</p>
-
 ---
 
 ### 🧠 About Me
