@@ -32,3 +32,10 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+# Save the generated files as workflow artifacts
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-contribution-grid-snake
+          path: dist/github-contribution-grid-snake.svg
