@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Angelo</h1>
-<h3 align="center">MSc Student in Computer Science and Engineering</h3>
+<h3 align="center">MSc in Computer Science and Engineering</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 <picture> <img align="right" src="https://github.com/Angelo7672/Angelo7672/blob/main/gif/Right_Side.gif?raw=true" width = 200px></picture>
 
 
-- 🎓 I'm currently pursuing a **Master’s Degree in Computer Science and Engineering**
+- 🎓 **Master’s Degree in Computer Science and Engineering** at Politecnico di Milano
 - 💻 Passionate about **Artificial Intelligence**, **Computer Vision**, and **Software Development**
 - 🔬 Interested in **research**, **open source**, and practical **real-world applications**
 - 🌱 Constantly learning and exploring new technologies
