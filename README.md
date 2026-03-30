@@ -36,13 +36,12 @@
 <picture> <img align="right" src = "https://github.com/Angelo7672/Angelo7672/blob/main/gif/CP_PS.gif?raw=true" width = 200px>  </picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo7672&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Angelo7672&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Angelo7672/Angelo7672/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Angelo7672&label=Profile%20views&color=0e75b6&style=flat" alt="Angelo7672" />
