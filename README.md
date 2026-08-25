@@ -36,7 +36,7 @@
 <picture> <img align="right" src = "https://github.com/Angelo7672/Angelo7672/blob/main/gif/CP_PS.gif?raw=true" width = 200px>  </picture>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Angelo7672&layout=compact&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Angelo7672&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
